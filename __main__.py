@@ -1,0 +1,1 @@
+print('Via est vita!')
